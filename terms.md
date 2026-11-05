@@ -1,6 +1,6 @@
 # Termos de Serviço
 
-Última atualização: 25/11/2025
+Última atualização: 05/11/2026
 
 Bem-vindo ao **Projeto Integrador de API WhatsApp — Integração com Chatbot via n8n**.  
 Ao utilizar este Serviço, você concorda com os termos abaixo.
@@ -10,6 +10,7 @@ O Serviço fornece:
 - integração com API WhatsApp
 - automação por chatbot via plataforma n8n
 - respostas automatizadas ou semi-automatizadas
+- assistente pessoal com IA (Telegram, Gmail e Google Agenda), de uso individual do autor (detalhes na Política de Privacidade)
 
 O Serviço não é produto oficial da Meta, WhatsApp ou n8n. É um projeto integrador de software.
 
@@ -33,7 +34,7 @@ Cada uma possui seus próprios Termos de Serviço e políticas.
 
 ## 5. Privacidade e Dados
 O uso do Serviço implica concordância com a **Política de Privacidade**, disponível em:
-[SEU DOMÍNIO/URL DO GITHUB PAGES]
+https://fer1pe.github.io/felp/privacy
 
 ## 6. Limitações
 Não garantimos:
@@ -45,12 +46,12 @@ O usuário aceita que o sistema pode falhar ou não responder conforme esperado.
 
 ## 7. Cancelamento e Exclusão
 Você pode solicitar a exclusão de dados ou interrupção de interação enviando email para:
-fel1pe.aguil4r@gmail
+fel1pe.aguil4r@gmail.com
 
 ## 8. Alterações dos Termos
 Estes termos podem ser atualizados sem aviso prévio.  
 A versão vigente estará sempre disponível em:
-[SEU DOMÍNIO/URL DO GITHUB PAGES]
+https://fer1pe.github.io/felp/terms
 
 ## 9. Legislação Aplicável
 Estes termos seguem a legislação brasileira.  
