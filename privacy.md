@@ -1,12 +1,12 @@
 # Política de Privacidade
 
-Última atualização: 25/11/2025
+Última atualização: 05/11/2026
 
 Esta Política de Privacidade descreve como coletamos, utilizamos e protegemos os dados pessoais dos usuários do projeto **“Projeto Integrador de API WhatsApp — Integração com Chatbot via n8n”**, doravante denominado “Serviço”.
 
 ## 1. Controlador de Dados
 Responsável: Felipe Machado  
-Contato: fel1pe.aguil4r@gmail
+Contato: fel1pe.aguil4r@gmail.com
 
 ## 2. Informações Coletadas
 Nosso sistema pode coletar e processar as seguintes informações:
@@ -60,11 +60,29 @@ O usuário pode solicitar:
 - Correção ou exclusão
 - Revogação do consentimento
 
-Contato: fel1pe.aguil4r@gmail
+Contato: fel1pe.aguil4r@gmail.com
 
 ## 9. Alterações nesta Política
 Podemos atualizar este documento a qualquer momento. A versão vigente será sempre disponibilizada em:
-[SEU DOMÍNIO/URL DO GITHUB PAGES]
+https://fer1pe.github.io/felp/privacy
 
 ## 10. Jurisdição
 Esta política segue as diretrizes da **LGPD – Lei Geral de Proteção de Dados (Lei 13.709/2018)**.
+
+## 11. Assistente pessoal com IA (Telegram, Gmail e Google Agenda)
+O Serviço também inclui um assistente pessoal com inteligência artificial, de uso individual, criado como projeto final da disciplina de Inteligência Artificial da Fatec. Ele funciona na plataforma n8n e conversa com o autor pelo Telegram.
+
+**Dados do Google acessados.** Mediante autorização do próprio autor (Felipe Machado), o assistente:
+
+- lê somente os e-mails do Gmail marcados com a etiqueta "assistente";
+- consulta e cria eventos na Google Agenda do autor.
+
+**Para que usamos.** Apenas para identificar datas, prazos e eventos nesses e-mails, avisar o autor pelo Telegram e, somente após confirmação dele, criar o evento na agenda ou salvar o prazo. Nada é criado sem confirmação.
+
+**Processamento e armazenamento.** O texto dos e-mails marcados é enviado a um modelo de IA (Google Gemini) apenas para extrair data e título. Guardamos somente o título e a data dos prazos; o conteúdo completo dos e-mails não é armazenado.
+
+**Compartilhamento.** Os dados do Google não são vendidos, não são usados para publicidade e não são compartilhados com terceiros, exceto os serviços citados acima, necessários para o funcionamento (Google, Telegram e n8n).
+
+**Uso limitado.** O uso das informações recebidas das APIs do Google segue a Política de Dados do Usuário dos Serviços de API do Google, incluindo os requisitos de Uso Limitado.
+
+**Acesso e revogação.** Apenas o autor usa esse assistente. Ele pode revogar o acesso a qualquer momento em https://myaccount.google.com/permissions ou pedir a exclusão dos dados pelo e-mail fel1pe.aguil4r@gmail.com.
